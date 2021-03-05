@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:white;
+    font-family: 'Ubuntu', sans-serif;
+}
+.con{
+    max-width: 1000px;
+    background-color: green;
+    margin: auto;
+    padding: 20px;
+}
+header{
+
+}
+.por{
+    width: 100px;
+    height: 120px;
+    border: red 3px solid;
+    border-radius: 50%;
+    float: left;
+}
+.HB{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+color:yellow;
+}
+.HC{
+    float: right;
+    padding: 30px;
+}
+.HC a{
+text-decoration: none;
+color: cyan;
+font-weight: bold;
+}
+.HC a:hover{
+    text-decoration: underline;
+    color: magenta;
+
+}
+.DC{
+    clear: both;
+}
+.uhr{
+    border:solid 3px black;
+    margin: 20px auto;
+    width: 100%;
+    border-bottom: none;
+}
+/*-------
+PS start
+---------*/
+#PS{
+
+}
+.content{
+
+}
+.LD{
+width: 30%;
+float: left;
+}
+.RD{
+width: 70%;
+float: right;
+}
+hr{
+    border:solid black 1 px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
